@@ -104,7 +104,7 @@ CREATE TABLE KRSMahasiswa (
 ## Soal Latihan Praktikum
 ### SOAL
 Berdasarkan table Mahasiswa pada praktikum sebelumnya: (nim, nama, jenis_kelamin, tgl_lahir, jalan, kota, kodepos, no_hp, kd_ds)
-*** Isi data pada table tersebut sebanyak minimal 5 record data. Tampilkan semua isi/record tabel! ***
+***Isi data pada table tersebut sebanyak minimal 5 record data. Tampilkan semua isi/record tabel!***
 - Ubah data tanggal lahir Mahasiswa yang bernama Ari menjadi: 1979-08-31!
 - Tampilkan satu baris / record data yang telah diubah tadi yaitu record dengan nama Ari saja!
 - Hapus Mahasiswa yang bernama Dina!
