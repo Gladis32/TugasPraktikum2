@@ -20,8 +20,8 @@ KRSMahasiswa (nim, kd_mk, kd_ds, semester, nilai)
 ```
 
 ### SOAL
-Buat DDL Script berdasarkan skema ERD tersebut diatas.
-Jalankan script DDL tersebut pada DBMS MySQL.
+- Buat DDL Script berdasarkan skema ERD tersebut diatas.
+- Jalankan script DDL tersebut pada DBMS MySQL.
 
 ### Langkah-langkahnya:
 **1. Buat sebuah database**
